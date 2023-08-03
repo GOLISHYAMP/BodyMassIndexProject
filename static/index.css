@@ -3,3 +3,47 @@
     font-size: 20px;
     color: red;
 }
+
+.forum{
+    border: 5px;
+    border-radius: 5px;
+    border : solid green;
+    display: inline-block;
+    padding: 15px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    margin-top: 15%;
+    margin-left: 50%;
+    font-size: 30px;
+}
+
+input{
+    font-size: 20px;
+    width: 60%;
+    margin-left: 10%;
+    text-align: center;
+    padding: 0%;
+    
+}
+
+#submit_btn{
+    margin-left: 40%;
+    margin-top: 5%;
+    width : 20%;
+}
+
+footer{
+   text-align: center;
+   margin-top: 35%;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(139, 243, 168);
+    
+}
+
+body{
+    background-image: url("../images/BMI_img.png");
+    
+}
